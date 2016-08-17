@@ -1,0 +1,23 @@
+{
+  "name": "cpd",
+  "description": "cpd description",
+  "main": "main.js",
+  "authors": [
+    "lu.jing.feng.jeff@gmail.com"
+  ],
+  "license": "ISC",
+  "homepage": "https://github.com/lujingfeng/cpd",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+
+  "dependencies": {
+    "react": "^15.3.0",
+    "jquery": "^3.1.0",
+    "reflux": "^0.4.1"
+  }
+}
